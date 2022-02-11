@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=Listlinked
+comment0.text=\r\n\ This\ is\ a\ simple\ Linked\ List\ package.\ I\ allows\ you\ to\ create\ a\ mutable\ list\ that\ stores\r\n\ generic\ objects.\r\n\r\n\ @author\ (Jacob\ Dent)\r\n\ @version\ (12/17/2021)\r\n
+comment1.params=data
+comment1.target=Listlinked(java.lang.Object)
+comment10.params=
+comment10.target=int\ getSize()
+comment11.params=
+comment11.target=void\ printList()
+comment2.params=name
+comment2.target=void\ insertAtEnd(java.lang.String)
+comment3.params=name
+comment3.target=void\ insertAtStart(java.lang.String)
+comment4.params=dataSearch\ data
+comment4.target=void\ insertAfter(java.lang.Object,\ java.lang.Object)
+comment5.params=dataSearch\ data
+comment5.target=void\ insertBefore(java.lang.Object,\ java.lang.Object)
+comment6.params=dataSearch
+comment6.target=boolean\ findRecord(java.lang.Object)
+comment7.params=dataSearch
+comment7.target=void\ removeRecord(java.lang.Object)
+comment8.params=
+comment8.target=Node\ getStart()
+comment9.params=
+comment9.target=Node\ getEnd()
+numComments=12
